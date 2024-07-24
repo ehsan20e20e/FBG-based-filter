@@ -1,9 +1,9 @@
 # FBG-based_filter
 Animation Abstract (loading ... please wait):
-![FBG-based_filter](https://github.com/ehsan20e20e/FBG-based-filter/assets/106914575/628d7dde-8b0e-48a2-9580-72ca47c4a343)
+![FBG-based_filter](https://github.com/user-attachments/assets/6ac420c6-8388-492e-9244-0af4fd49e26c)
 
 ## Describtion
-The provided repository serves as a demonstration of the application of deep learning techniques in predicting the spectral response of all-optical plasmonic switches. This repository is based on the extensive research presented in the paper "**Inverse Design of FBG-based Optical Filters using Deep Learning: A Hybrid CNN-MLP Approach**," which is due for peer review in the prestigious scientific journal **Optics & Laser Technology** in 2024. It has been designed to address inverse design challenges, specifically focusing on photonics and optics.
+The provided repository serves as a demonstration of the application of deep learning techniques in predicting the spectral response of all-optical plasmonic switches. This repository is based on the extensive research presented in the paper "**Inverse Design of FBG-based Optical Filters using Deep Learning: A Hybrid CNN-MLP Approach**," which is due for peer review in a scientific journal in 2024. It has been designed to address inverse design challenges, specifically focusing on photonics and optics.
 #### Instructions
 The following guidelines provide detailed instructions for setting up and running a copy of the project on your local machine, thus enabling you to perform testing and development activities. These instructions are tailored to ensure accuracy and completeness when executing the project setup process. Consequently, we recommend that you adhere to them meticulously.
 ## Prerequisites
